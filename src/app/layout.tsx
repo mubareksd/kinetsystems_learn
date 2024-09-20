@@ -15,7 +15,18 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "Kinet Systems Education - Empowering Future Tech Leaders",
-  description: "Join Kinet Systems' cutting-edge tech education program. We offer online and in-person courses to equip students with the skills needed for tomorrow's technology landscape.",
+  description:
+    "Join Kinet Systems' cutting-edge tech education program. We offer online and in-person courses to equip students with the skills needed for tomorrow's technology landscape.",
+  keywords: [
+    "Kinet Systems",
+    "education",
+    "learn",
+    "technology",
+    "software",
+    "hardware",
+    "innovation",
+    "future",
+  ],
 };
 
 export default function RootLayout({
